@@ -1,0 +1,8 @@
+rl.close();
+      break;
+    default:
+      console.log('Invalid command. Try again.');
+  }
+  promptUser();
+}
+promptUser();
